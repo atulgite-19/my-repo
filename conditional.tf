@@ -6,6 +6,7 @@
   secret_key = "XXXX"
 }
 
+#variable
 variable istest {}
 
 resource "aws_instance" "dev1" {
