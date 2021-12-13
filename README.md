@@ -1,13 +1,12 @@
 # my-repo
 
-# EFS creation code in efs.tf
+* EFS creation code in efs.tf
 
-# Complete assignment in "assessment" foler
+* Complete assignment in "assessment" foler
 
-# NetSPI-main.tf is main file
+* NetSPI-main.tf is main file
 
-# Assessment details:
-
+* Assessment details:
 1. Through AWS console, provision an Elastic IP. Assign tag “Project” with value “NetSPI_EIP” to it.
 2. Write Terraform code to provision following resources:
       a. S3 bucket with private access permissions
